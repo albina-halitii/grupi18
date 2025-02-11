@@ -13,6 +13,10 @@ Shfaqja e listës së studentëve në grup.
 
 Kërkimi i një studenti sipas ID-së.
 
+Nderrimi i statusit te studentit.
+
+Shfaqja e studenteve pas nderrimit te statusit.
+
 
 🚀 Si ta ekzekutoni lokalisht?
 
