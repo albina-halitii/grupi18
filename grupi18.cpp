@@ -16,6 +16,13 @@ struct Studenti {
 
 };
 
+
+void shtoStudent() {
+    Studenti student;
+    cout << "Vendos ID e studentit: ";
+    cin >> student.id;
+}
+
 int main() {
     return 0;
 }

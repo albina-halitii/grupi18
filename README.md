@@ -17,6 +17,8 @@ Nderrimi i statusit te studentit.
 
 Shfaqja e studenteve pas nderrimit te statusit.
 
+Shtimi i nje studenti te ri ne liste.
+
 
 🚀 Si ta ekzekutoni lokalisht?
 
