@@ -1,6 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <body>
-    
-  </body>
-</html>
+#include <iostream>
+using namespace std;
+
+int main() {
+    return 0;
+}
