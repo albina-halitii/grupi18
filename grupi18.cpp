@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define NUMRI_I_STUDENTEVE 4
+#define NUMRI_I_STUDENTEVE 5
 
 enum Statusi {
     I_RREGULLT,
