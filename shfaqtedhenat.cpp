@@ -15,4 +15,5 @@ break;
 default:
 cout<<"?";
 break;
-}cout<<endl;}
+}
+cout<<endl;}
